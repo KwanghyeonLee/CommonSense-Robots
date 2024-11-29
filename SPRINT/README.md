@@ -204,3 +204,6 @@ If you find this work useful, please cite it:
       url={https://arxiv.org/abs/2306.11886}
 }
 ```
+
+## Acknowledgements
+This work is supported by AI Technology Development for Commonsense Extraction, Reasoning, and Inference from Heterogeneous Data(IITP) funded by the Ministry of Science and ICT(2022-0-00077).
