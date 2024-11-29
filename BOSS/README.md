@@ -74,3 +74,6 @@ If you find the code useful for your research, please consider citing
     url={https://openreview.net/forum?id=a0mFRgadGO}
 }
 ```
+
+## Acknowledgements
+This work is supported by AI Technology Development for Commonsense Extraction, Reasoning, and Inference from Heterogeneous Data(IITP) funded by the Ministry of Science and ICT(2022-0-00077).
