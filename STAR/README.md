@@ -27,3 +27,6 @@ If you find this work useful in your research, please consider citing:
     year={2022},
 }
 ```
+
+## Acknowledgements
+This work is supported by AI Technology Development for Commonsense Extraction, Reasoning, and Inference from Heterogeneous Data(IITP) funded by the Ministry of Science and ICT(2022-0-00077).
