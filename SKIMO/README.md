@@ -176,3 +176,6 @@ If you find our code useful for your research, please cite:
 * Dreamer: https://github.com/danijar/dreamer
 * D4RL: https://github.com/rail-berkeley/d4rl
 * CALVIN: https://github.com/mees/calvin
+
+## Acknowledgements
+This work is supported by AI Technology Development for Commonsense Extraction, Reasoning, and Inference from Heterogeneous Data(IITP) funded by the Ministry of Science and ICT(2022-0-00077).
