@@ -20,6 +20,3 @@
 * SPRINT: Scalable Policy Pre-Training via Language Instruction Relabeling (ICRA 2024) - Jesse Zhang, Karl Pertsch, Jiahui Zhang, and Joseph J. Lim.
 
   * The proposed SPRINT(Scalable Pre-training via Relabeling Language INsTructions) is an approach that allows automatic expansion of a base set of pre-training tasks, resulting in a significanly broader skill repertoire. SPRINT leverages two core ideas: instruction relabeling via LLMs and cross-trajectory skill chaining through offline reinforcement learning.
-
-## Acknowledgements
-These works were supported by Institute of Information & communications Technology Planning & Evaluation (IITP) grant funded by the Korea government (MSIT). Also, these works were supported by supported by the National Research Foundation of Korea (NRF) grant funded by the Korea government (MSIT).
